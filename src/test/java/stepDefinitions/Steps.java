@@ -31,12 +31,17 @@ public class Steps extends BaseClass {
         //Logger Configuration
         logger = Logger.getLogger("SeleniumCucumber"); // Added Logger
         PropertyConfigurator.configure("log4j.properties");
+      
         // Reading Properties from config.properties
         configProp=new Properties();
         FileInputStream configPropfile = new FileInputStream("config.properties");
         configProp.load(configPropfile);
-        // Browser Configuration
-        String browser=configProp.getProperty("browser");
+        
+        // Browser Configuration - First check for Maven cmd input , else read from property file.
+        String browserParamFromEnv = System.getProperty("browser");
+        String browser = browserParamFromEnv == null ? configProp.getProperty("browser") : browserParamFromEnv;
+        
+      //  String browser=configProp.getProperty("browser");
         logger.info(" ******* Launching Browser***********");
 
         if(browser.equals("chrome"))
@@ -171,7 +176,7 @@ public class Steps extends BaseClass {
 	
 
 
-    //@After
+    @After
     public void tearDown() throws IOException
     {
     	logger.info(" Closing Browsers");

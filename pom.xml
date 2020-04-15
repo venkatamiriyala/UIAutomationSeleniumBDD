@@ -10,6 +10,7 @@
 		<cucumber.version>4.2.0</cucumber.version>
 		<maven.compiler.source>1.8</maven.compiler.source>
 		<maven.compiler.target>1.8</maven.compiler.target>
+		<browser.val>chrome</browser.val>
 	</properties>
 
 	<!-- TO RUN FROM COMMAND POMPT -->
@@ -30,6 +31,9 @@
 				<artifactId>maven-surefire-plugin</artifactId>
 				<version>3.0.0-M1</version>
 				<configuration>
+					<systemPropertyVariables>
+                    	<browser>chrome</browser>
+                    </systemPropertyVariables>        
 					<parallel>methods</parallel>
 					<threadCount>2</threadCount>
 					 <perCoreThreadCount>false</perCoreThreadCount>

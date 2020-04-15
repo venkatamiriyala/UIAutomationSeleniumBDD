@@ -209,3 +209,9 @@
 [main] INFO SeleniumCucumber - ******* Launching URL***********
 [main] INFO SeleniumCucumber -  ******* Launching Browser***********
 [main] INFO SeleniumCucumber - ******* Launching URL***********
+[pool-1-thread-1] INFO SeleniumCucumber -  ******* Launching Browser***********
+[pool-1-thread-1] INFO SeleniumCucumber -  ******* Launching Browser***********
+[pool-1-thread-1] INFO SeleniumCucumber -  ******* Launching Browser***********
+[pool-1-thread-1] INFO SeleniumCucumber - ******* Launching URL***********
+[pool-1-thread-1] INFO SeleniumCucumber -  ******* Launching Browser***********
+[pool-1-thread-1] INFO SeleniumCucumber -  ******* Launching Browser***********
