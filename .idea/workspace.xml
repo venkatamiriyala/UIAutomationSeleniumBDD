@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e32aa623-064d-4e89-a02d-b86480b4b219" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../CucumberBDDMiniProject/CucumberBDDMiniProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/DemoApplication.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/DemoApplication.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/Demoapplication.html" beforeDir="false" afterPath="$PROJECT_DIR$/log/Demoapplication.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/Demotestlog.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/Demotestlog.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinitions/Steps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/Steps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/formatter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/html/report.js" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/html/report.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/jquery-3.4.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/report.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/style.css" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JavaAutoRunManager">
+    <enabled-run-configurations>
+      <run-configuration type="JUnit" name="TestRunner" />
+    </enabled-run-configurations>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../apache-maven-3.6.3-bin/apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_HOME" />
+  </component>
+  <component name="ProjectId" id="1ZqaVEMQMaUJQk1mfJOp9SS06BT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../RestassuredAPITesting_Employee_Project" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.5" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="utilities" />
+      <recent name="pageObjects" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\WorkSpace\Drivers" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestRunner">
+    <configuration name="Scenario: System should NOT allow users to register with An INVALID Email ID" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/Features/Registration.feature" />
+      <option name="GLUE" value="stepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="UIAutomationSeleniumBDD" />
+      <option name="NAME_FILTER" value="^System should NOT allow users to register with An INVALID Email ID$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^System should NOT allow users to register with An INVALID Email ID$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: System should NOT allow users to register with An INVALID Email ID" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: User should Able to register in the site with a valid Email ID" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/Features/Registration.feature" />
+      <option name="GLUE" value="stepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="UIAutomationSeleniumBDD" />
+      <option name="NAME_FILTER" value="^User should Able to register in the site with a valid Email ID$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^User should Able to register in the site with a valid Email ID$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: User should Able to register in the site with a valid Email ID" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Verify MegaMenu should work on Summer Dresses page" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/Features/SummerDresses.feature" />
+      <option name="GLUE" value="stepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="UIAutomationSeleniumBDD" />
+      <option name="NAME_FILTER" value="^Verify MegaMenu should work on Summer Dresses page$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Verify MegaMenu should work on Summer Dresses page$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Verify MegaMenu should work on Summer Dresses page" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in SeleniumCucumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UIAutomationSeleniumBDD" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UIAutomationSeleniumBDD" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testRunner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testRunner" />
+      <option name="MAIN_CLASS_NAME" value="testRunner.TestRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestRunner" />
+        <item itemvalue="JUnit.All in SeleniumCucumber" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e32aa623-064d-4e89-a02d-b86480b4b219" name="Default Changelist" comment="" />
+      <created>1585569100030</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585569100030</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Console" timestamp="1585716714328">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Console/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1585716714328" />
+    <state x="223" y="50" width="1089" height="774" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585572663984">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="50" width="1089" height="774" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1585572663984" />
+    <state x="562" y="256" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585719160951">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="562" y="256" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1585719160951" />
+    <state x="2623" y="323" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1585642431088" />
+    <state x="517" y="249" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1585722536622">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="517" y="249" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1585722536622" />
+    <state x="665" y="106" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1585571031281">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="665" y="106" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1585571031281" />
+    <state x="2610" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585641451147">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2610" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1585641451147" />
+    <state x="3151" y="196" key="FileChooserDialogImpl" timestamp="1586829320678">
+      <screen x="2560" y="0" width="1920" height="1050" />
+    </state>
+    <state x="3151" y="196" key="FileChooserDialogImpl/0.0.1280.690/2560.0.1920.1050@2560.0.1920.1050" timestamp="1586829320678" />
+    <state x="473" y="154" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1585723637754" />
+    <state width="1238" height="167" key="GridCell.Tab.0.bottom" timestamp="1586841727849">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state width="1238" height="167" key="GridCell.Tab.0.bottom/0.0.1280.690/2560.0.1920.1050@0.0.1280.690" timestamp="1586841727849" />
+    <state width="1493" height="225" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1585718435322" />
+    <state width="1877" height="284" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1585645624080" />
+    <state width="1238" height="167" key="GridCell.Tab.0.center" timestamp="1586841727849">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state width="1238" height="167" key="GridCell.Tab.0.center/0.0.1280.690/2560.0.1920.1050@0.0.1280.690" timestamp="1586841727849" />
+    <state width="1493" height="225" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1585718435321" />
+    <state width="1877" height="284" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1585645624080" />
+    <state width="1238" height="167" key="GridCell.Tab.0.left" timestamp="1586841727849">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state width="1238" height="167" key="GridCell.Tab.0.left/0.0.1280.690/2560.0.1920.1050@0.0.1280.690" timestamp="1586841727849" />
+    <state width="1493" height="225" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1585718435321" />
+    <state width="1877" height="284" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1585645624080" />
+    <state width="1238" height="167" key="GridCell.Tab.0.right" timestamp="1586841727849">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state width="1238" height="167" key="GridCell.Tab.0.right/0.0.1280.690/2560.0.1920.1050@0.0.1280.690" timestamp="1586841727849" />
+    <state width="1493" height="225" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1585718435321" />
+    <state width="1877" height="284" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1585645624080" />
+    <state x="3109" y="141" width="702" height="601" key="NewModule_or_Project.wizard" timestamp="1586829322630">
+      <screen x="2560" y="0" width="1920" height="1050" />
+    </state>
+    <state x="3109" y="141" key="NewModule_or_Project.wizard/0.0.1280.690/2560.0.1920.1050@2560.0.1920.1050" timestamp="1586829322630" />
+    <state x="439" y="111" width="702" height="601" key="NewModule_or_Project.wizard/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1585722952207" />
+    <state x="208" y="0" width="1170" height="824" key="SettingsEditor" timestamp="1586843049415">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state x="208" y="0" key="SettingsEditor/0.0.1280.690/2560.0.1920.1050@0.0.1280.690" timestamp="1586843049415" />
+    <state x="249" y="0" width="1170" height="824" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1585723734126" />
+    <state x="470" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1585602252530">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="470" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1585602252530" />
+    <state x="498" y="306" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1585570965959">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="306" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1585570965959" />
+    <state x="2610" y="275" width="540" height="496" key="extract.method.dialog" timestamp="1585632864191">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2610" y="275" width="540" height="496" key="extract.method.dialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1585632864191" />
+    <state x="2821" y="138" key="new project wizard" timestamp="1586829086901">
+      <screen x="2560" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2821" y="138" key="new project wizard/0.0.1280.690/2560.0.1920.1050@2560.0.1920.1050" timestamp="1586829086901" />
+    <state x="209" y="108" key="new project wizard/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1585570405724" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1585602578582">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1585602578582" />
+  </component>
+</project>
